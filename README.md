@@ -1,0 +1,1 @@
+This is a simple html website, I have demonstrated html and aswell using git bash.
